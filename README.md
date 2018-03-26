@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](https://github.com/findanddelete/jupyterlab/master?urlpath=lab/index.ipynb)
 
-http://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb
+`http://mybinder.org/v2/gh/findanddelete/jupyterlab/master?urlpath=lab/tree/index.ipynb`
 
 JupyterLab is packaged with Binder repositories by default. In order to
 run a JupyterLab session, you have two options:
